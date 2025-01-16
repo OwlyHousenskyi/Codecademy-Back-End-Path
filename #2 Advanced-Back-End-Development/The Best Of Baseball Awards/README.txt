@@ -1,0 +1,1 @@
+File: "baseball_database.sql", is provided by Codecademy to make an exercise. 
